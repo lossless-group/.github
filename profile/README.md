@@ -1,6 +1,6 @@
 # The Lossless Group
 
-The Lossless Group is a loose collection of innovators who are trying to **come up with winning formulae** for this new world of technology humanity seems creating. 
+[The Lossless Group]([url](https://www.lossless.group/)) is a loose collection of innovators who are trying to **come up with winning formulae** for this new world of technology humanity seems creating. 
 
 We do some consulting, lots of investing, and travel to conferences and take meetings more than is healthy. When we are not vibe coding or deal making, we can be found eating tacos too frequently. 
 

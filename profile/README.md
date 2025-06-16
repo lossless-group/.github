@@ -12,7 +12,7 @@ We consult and cover, invest in, and sometimes build products around
 - Emergent Innovations
 - State of the Art Tech Stacks
 
-
+Look at our [AI Toolkit]([url](https://www.lossless.group/ai-toolkit))
 
 <!--
 

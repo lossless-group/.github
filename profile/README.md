@@ -14,6 +14,11 @@ We consult and cover, invest in, and sometimes build products around
 
 Look at our [AI Toolkit](https://www.lossless.group/ai-toolkit)
 
+
+<a href="https://vimeo.com/1101610575">
+  <img width="1840" height="1085" alt="thumbFor_Lossless-Emergent" src="https://github.com/user-attachments/assets/3125c45f-153e-4c03-9db8-5a0e5c9edb42" />
+</a>
+
 <!--
 
 **Here are some ideas to get you started:**

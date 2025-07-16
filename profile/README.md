@@ -1,5 +1,8 @@
 # The Lossless Group
 
+<img width="1920" height="479" alt="20250716_Lossless-Thumbnail" src="https://github.com/user-attachments/assets/3cdde5c4-da7f-4f42-82d0-191a67e05a8d" />
+
+
 [The Lossless Group](https://www.lossless.group/) is a loose collection of innovators who are trying to **come up with winning formulae** for this new world of technology humanity seems creating. 
 
 We do some consulting, lots of investing, and travel to conferences and take meetings more than is healthy. When we are not vibe coding or deal making, we can be found eating tacos too frequently. 

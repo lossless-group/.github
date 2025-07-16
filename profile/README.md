@@ -28,3 +28,7 @@ Look at our [AI Toolkit](https://www.lossless.group/ai-toolkit)
 We've been turning Obsidian into a profession grade content management beast. 
 
 ![Open Graph Fetcher Obsidian Plugin Banner Image](https://i.imgur.com/CJ18gyp.png)
+
+
+![Open Graph Fetcher Obsidian Plugin Banner Image](https://i.imgur.com/0v6sPkv.png)
+

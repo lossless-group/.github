@@ -22,13 +22,9 @@ Look at our [AI Toolkit](https://www.lossless.group/ai-toolkit)
   <img width="1840" height="1085" alt="thumbFor_Lossless-Emergent" src="https://github.com/user-attachments/assets/3125c45f-153e-4c03-9db8-5a0e5c9edb42" />
 </a>
 
-<!--
+***
 
-**Here are some ideas to get you started:**
+# Obsidian Plugins
+We've been turning Obsidian into a profession grade content management beast. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![Open Graph Fetcher Obsidian Plugin Banner Image](https://i.imgur.com/CJ18gyp.png)

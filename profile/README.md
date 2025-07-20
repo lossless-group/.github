@@ -27,8 +27,12 @@ Look at our [AI Toolkit](https://www.lossless.group/ai-toolkit)
 # Obsidian Plugins
 We've been turning Obsidian into a profession grade content management beast. 
 
-![Open Graph Fetcher Obsidian Plugin Banner Image](https://i.imgur.com/CJ18gyp.png)
+![Perplexed: an Obsidian Plugin for Perplexity and Perplexica](https://i.imgur.com/MVOK3rk.png)
+
+
+![Open Graph Fetcher: An Obsidian Plugin for OpenGraph.io](https://i.imgur.com/CJ18gyp.png)
 
 
 ![Open Graph Fetcher Obsidian Plugin Banner Image](https://i.imgur.com/0v6sPkv.png)
 
+<img width="1920" height="479" alt="Obsidian-Plugin-Starter-Kit" src="https://github.com/user-attachments/assets/882b3db7-7cb7-4ff7-a2c1-a4f4ace3deac" />
